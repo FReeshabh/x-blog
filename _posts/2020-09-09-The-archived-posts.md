@@ -23,7 +23,9 @@ Link to it: [right here](https://freeshabh.github.io/xblog/comedy/2020/02/13/Sta
 
 2. Link to Illusion of Choice Linux: [right here](https://freeshabh.github.io/xblog/linux/soft-community/2020/04/05/Illusion_ofChoiceLinux.html)
 
-# Linear Regression
+## Linear Regression
 Link to the notebook: [here](https://freeshabh.github.io/xblog/machine-learning/2020/04/06/linear-regression-a-non-authoritative-guide.html)
+
+## Another old blog => [HERE](https://gist.github.com/FReeshabh/a43d3e3405fee1e5226f733a7e8932a6)
 
 Ciao?
