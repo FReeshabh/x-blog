@@ -3,8 +3,9 @@ toc: false
 layout: post
 description: introduction to virtual reality
 categories: [project]
-title: [Project] Virtual Reality Project using Aframe (Covid Human scale experience)
+title: Virtual Reality Project using Aframe (Covid Human scale experience)
 ---
+
 # My first introduction to virtual reality
 This project was my first real experience with virtual reality. This project is made to be run in a browser and can be viewed by clicking on this [link](https://freeshabh.github.io/virtual-reality-project-1/). 
 
