@@ -441,7 +441,13 @@ a:hover { color: rgba(255, 255, 255, 0.87) !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
 
+.site-header { padding: 5px !important; border-top: none !important; background-color: #28caca; }
+
 .site-nav { background-color: #28caca; border-color: #333333; }
+
+.site-footer { padding: 5px 0; background-color: #28caca; }
+
+.footer-col-wrapper { color: #ffffff !important; }
 
 * { scrollbar-color: #121212 #333333; }
 
