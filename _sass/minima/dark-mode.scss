@@ -23,11 +23,18 @@ a:hover {
     color: $high-emph !important;
 }
 
+//header
+.site-header { padding: 5px !important; border-top: none !important;  background-color: #28caca; }
+
 .site-nav {
     // background-color: $dark-grey;
     background-color: #28caca;
     border-color: $overlay-light;
 }
+
+//footer
+.site-footer { padding: 5px 0; background-color: #28caca; }
+.footer-col-wrapper { color: #ffffff !important;}
 
 * {
     scrollbar-color: $dark-grey $overlay-light;
